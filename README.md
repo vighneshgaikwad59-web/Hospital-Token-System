@@ -117,8 +117,3 @@ Department : Cardiology
 **Vighnesh Anand Gaikwad**
 GitHub: [@vighneshgaikwad59-web](https://github.com/vighneshgaikwad59-web)
 
----
-
-## 📄 License
-
-This project is open source and available for learning purposes.
