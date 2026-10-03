@@ -110,7 +110,7 @@ Department : Cardiology
 - Separate queues per department
 - Use `std::queue` or `std::deque` for more efficient removal from the front
 
----
+
 
 ## 👤 Author
 
