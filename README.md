@@ -112,8 +112,3 @@ Department : Cardiology
 
 
 
-## 👤 Author
-
-**Vighnesh Anand Gaikwad**
-GitHub: [@vighneshgaikwad59-web](https://github.com/vighneshgaikwad59-web)
-
